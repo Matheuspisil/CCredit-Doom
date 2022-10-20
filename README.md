@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="rocketpay" src="https://github.com/Matheuspisil/CCredit-Doom/blob/8f8e88ca67bff71cd2adcec5f662ef77400b06ee/public/cartaodecredit.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
