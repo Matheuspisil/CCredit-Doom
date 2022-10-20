@@ -42,8 +42,9 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ### :speaking_head: Comentário.
 <p align="center">
 Participei por 4 dias desse projeto incrível com educadores maravilhosos, me agregou demais em conhecimento. <b>Obrigado Rokectseat!</b>
+ </p>
 ## :memo: Licença
-</p>
+
 Esse projeto está sob a licença MIT.
 
 ---
